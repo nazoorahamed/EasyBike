@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793980715784",
+    "firebase_url": "https://easy-bike-1f32d.firebaseio.com",
+    "project_id": "easy-bike-1f32d",
+    "storage_bucket": "easy-bike-1f32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793980715784:android:81ab711d86eb9f3b",
+        "android_client_info": {
+          "package_name": "com.example.nazoorahamed.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793980715784-lvpcklu1sqm4vq6lef6pvhkenpaukdcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nazoorahamed.myapplication",
+            "certificate_hash": "1d93ccfb673e387bbd59816b882846bd158f81a9"
+          }
+        },
+        {
+          "client_id": "793980715784-fratfpr24f898pr0ofanjpnrs1vb0gu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkV447MgkPpTZo4MnaP-D5lyv2HL6Gz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793980715784-fratfpr24f898pr0ofanjpnrs1vb0gu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
